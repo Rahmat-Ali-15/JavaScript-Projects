@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.main-container{
+    width: 100%;
+    height: 100vh;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background: radial-gradient(circle, #89f7fe, #66a6ff);
+}
+.main-container>h1{
+    color: #cb0e44;
+}
+.salary-div{
+    display: flex;
+    gap: 10px;
+}
+.salary-div>input{
+    width: 250px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid white;
+    border-radius: 8px;
+    outline: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.salary-div>button{
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-radius: 8px;
+    border: 1px solid white;
+    color: #0666ff;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.salary-details{
+    margin-top: 40px;
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    border-radius: 10px;
+}
+.salary-details> div{
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.salary-details > div > p {
+    font-size: 18px;
+    font-weight: 550;
+}
+.salary-details > div > button{
+    font-size: 16px;
+    padding: 7px 20px;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    background: radial-gradient(red, yellow);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.salary-details > p{
+    padding-left: 20px;
+    font-size: 16px;
+}
+.salary-details > p > span{
+    font-weight: 550;
+}
+.add-expense-item{
+    margin-top: 50px;
+}
+.add-expense-item>div>input{
+    padding: 7px 10px;
+}
