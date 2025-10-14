@@ -6,32 +6,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Expense Tracker</title>
     <link rel="stylesheet" href="./style.css">
+    <script src="./app.js" defer></script>
 </head>
 
 <body>
     <div class="main-container">
         <h1>Expense Tracker</h1>
         <div class="content-container">
+
             <!-- Add Salary -->
             <div class="salary-div">
-                <input type="tel" placeholder="Enter your salary">
-                <button>Add Salary</button>
+                <input type="tel" id="salary_input" placeholder="Enter your salary">
+                <button class="add-salary-btn" onclick="addSalary()">Add Salary</button>
             </div>
 
             <!-- Salary details -->
             <div class="salary-details">
                 <div>
-                    <p>Total Amount : 10k</p>
+                    <p>Total Amount : <span id="total_salary"></span></p>
                     <button>Edit</button>
                 </div>
-                <p>Remaining Amount <span>: 5K</span></p>
+                <p>Remaining Amount : <span id="remaining_amt"></span></p>
             </div>
 
             <!-- Add items -->
             <div class="add-expense-item">
                 <div>
-                    <input type="text" name="item-name" placeholder="Enter item name">
-                    <input type="text" name="item-price" placeholder="Enter price">
+                    <label for="item_name">Item name</label>
+                    <input type="text" id="item_name" name="item-name" placeholder="Enter item name">
+                </div>
+                <div>
+                    <label for="price">Price</label>
+                    <input type="text" id="price" name="item-price" placeholder="Enter price">
+                </div>
+                <div>
+                    <label>Quantity</label>
                     <select name="select-items">
                         <option value="1">1</option>
                         <option value="2">2</option>
@@ -45,27 +54,29 @@
                         <option value="10">10</option>
                     </select>
                 </div>
-                <button>Add item</button>
+                <div class="total-price">
+                    <label for="total_price">Total Price</label>
+                    <p>10k</p>
+                </div>
+                <div class="add-item-btn">
+                    <button>Add item</button>
+                </div>
             </div>
 
             <!-- Expense item details -->
-            <!-- <div class="expense-details">
+            <div class="expense-details">
                 <table>
                     <thead>
                         <td>Sr No.</td>
                         <td>Item Name</td>
-                        <td>Quantity</td>
                         <td>Price</td>
+                        <td>Quantity</td>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td><input type="text" placeholder="Enter item name" >
-                            <button>Add Item</button></td>
-                        </tr>
+                        
                     </tbody>
                 </table>
-             </div> -->
+             </div>
         </div>
     </div>
 </body>
