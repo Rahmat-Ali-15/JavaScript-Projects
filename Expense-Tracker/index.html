@@ -12,71 +12,75 @@
 <body>
     <div class="main-container">
         <h1>Expense Tracker</h1>
-        <div class="content-container">
 
-            <!-- Add Salary -->
-            <div class="salary-div">
-                <input type="tel" id="salary_input" placeholder="Enter your salary">
-                <button class="add-salary-btn" onclick="addSalary()">Add Salary</button>
+        <!-- Add Salary -->
+        <div class="salary-div">
+            <input type="tel" id="salary_input" placeholder="Enter your salary" required>
+            <button class="add-salary-btn" onclick="addSalary()">Add Salary</button>
+        </div>
+
+        <!-- Salary details -->
+        <div class="salary-details">
+            <div>
+                <p>Total Balance : <span id="total_salary"></span></p>
+                <button>Edit</button>
             </div>
+            <p>Remaining Balance : <span id="remaining_bal"></span></p>
+        </div>
 
-            <!-- Salary details -->
-            <div class="salary-details">
-                <div>
-                    <p>Total Amount : <span id="total_salary"></span></p>
-                    <button>Edit</button>
-                </div>
-                <p>Remaining Amount : <span id="remaining_amt"></span></p>
+        <!-- Add items -->
+        <div class="add-expense-item">
+            <div>
+                <label for="item_name">Item name</label>
+                <input type="text" id="item_name" name="item-name" placeholder="Enter item name" required>
             </div>
-
-            <!-- Add items -->
-            <div class="add-expense-item">
-                <div>
-                    <label for="item_name">Item name</label>
-                    <input type="text" id="item_name" name="item-name" placeholder="Enter item name">
-                </div>
-                <div>
-                    <label for="price">Price</label>
-                    <input type="text" id="price" name="item-price" placeholder="Enter price">
-                </div>
-                <div>
-                    <label>Quantity</label>
-                    <select name="select-items">
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="10">10</option>
-                    </select>
-                </div>
-                <div class="total-price">
-                    <label for="total_price">Total Price</label>
-                    <p>10k</p>
-                </div>
-                <div class="add-item-btn">
-                    <button>Add item</button>
-                </div>
+            <div>
+                <label for="price">Price</label>
+                <input type="text" id="price" name="item-price" placeholder="Enter price">
             </div>
+            <div>
+                <label>Quantity</label>
+                <select name="select-items" class="item-qty">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                </select>
+            </div>
+            <div class="total-price">
+                <label for="total_price">Total Price</label>
+                <p class="total"></p>
+            </div>
+            <div class="add-item-btn">
+                <button onclick="itemDetails()">Add item</button>
+            </div>
+        </div>
 
-            <!-- Expense item details -->
-            <div class="expense-details">
-                <table>
-                    <thead>
-                        <td>Sr No.</td>
-                        <td>Item Name</td>
-                        <td>Price</td>
-                        <td>Quantity</td>
+        <!-- Expense item details -->
+        <div class="expense-details">
+            <h3>Expense Item Details</h3>
+            <div class="table-container">
+                <table class="table">
+                    <thead class="table-head">
+                        <tr>
+                            <th>Sr No.</th>
+                            <th style="width: 400px;">Item Name</th>
+                            <th>Price</th>
+                            <th>Quantity</th>
+                            <th>Total Amount</th>
+                        </tr>
                     </thead>
-                    <tbody>
-                        
+                    <tbody class="table-body">
+    
                     </tbody>
                 </table>
-             </div>
+            </div>
         </div>
     </div>
 </body>
