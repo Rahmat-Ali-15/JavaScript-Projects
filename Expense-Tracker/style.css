@@ -190,7 +190,6 @@ body {
 }
 .table-row>td{
   padding: 15px;
-  /* background-color: white; */
 }
 .table-row:hover{
   background-color: #81D4FA;
