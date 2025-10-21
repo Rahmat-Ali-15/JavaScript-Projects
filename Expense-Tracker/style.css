@@ -160,6 +160,7 @@ body {
   background-color: #f0f7ff;
   flex-direction: column;
   display: none;
+  border: 1px solid red;
 }
 .table {
   width: 100%;
