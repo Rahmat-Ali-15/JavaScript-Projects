@@ -23,3 +23,17 @@ const appendImg = (val) => {
         imgContainer.append(img)
     })
 }
+
+
+// ⭐ SCROLL LOGIC
+const imgContainer = document.querySelector(".imgs-container");
+const left = document.querySelector(".bi-chevron-left");
+const right = document.querySelector(".bi-chevron-right");
+
+right.addEventListener("click", () => {
+    imgContainer.scrollLeft += 160;  // 150px image + 10px gap
+});
+
+left.addEventListener("click", () => {
+    imgContainer.scrollLeft -= 160;
+});
