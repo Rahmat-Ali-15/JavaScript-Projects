@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.todo-input,
+.add-todo-btn {
+  padding: 7px 10px;
+  border: 1px solid black;
+  outline: none;
+}
+.list-container {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.list-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button-div {
+  display: flex;
+  gap: 10px;
+}
+.button-div > button {
+  padding: 7px 20px;
+}
