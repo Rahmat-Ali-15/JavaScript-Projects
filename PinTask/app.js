@@ -46,11 +46,14 @@ if (!Array.isArray(todoStorage)) {
   todoStorage = [];
 }
 
+// let pinTask = JSON.parse(localStorage.getItem("pinTask")) || [];
+
 console.log("🚀 ~ todoStorage:", todoStorage);
-// let count = 0;
+let count = 1;
+
+let todoInput = document.querySelector(".todo-input");
 
 const addTodo = () => {
-  let todoInput = document.querySelector(".todo-input");
   let todoInputVal = todoInput.value;
 
   if (todoInput.value.trim() === "") {
@@ -59,12 +62,12 @@ const addTodo = () => {
   }
 
   let todoObj = {
-    id: Date.now(),
+    id: count,
     text: todoInputVal,
     isEdited: false,
     isCompleted: false,
   };
-  // count++;
+  count++;
 
   todoStorage.push(todoObj);
   localStorage.setItem("todoData", JSON.stringify(todoStorage));
@@ -73,7 +76,15 @@ const addTodo = () => {
   console.log("🚀 ~ todoStorage:", todoStorage);
 
   todoInput.value = "";
+
 };
+
+// Press Enter key to add Todo Task
+todoInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    addTodo();
+  }
+});
 
 const todoList = () => {
   let listContainer = document.querySelector(".list-container");
@@ -82,6 +93,13 @@ const todoList = () => {
   todoStorage.map((el) => {
     let mainDiv = document.createElement("div");
     mainDiv.className = "list-content";
+
+    let checkBoxIdDiv = document.createElement("div");
+    checkBoxIdDiv.className = "checkBox-id-div";
+
+    let checkBox = document.createElement("input");
+    checkBox.type = "checkbox";
+    checkBox.checked = el.isCompleted;
 
     let todoId = document.createElement("p");
     todoId.innerText = el.id;
@@ -98,6 +116,43 @@ const todoList = () => {
     let deleteBtn = document.createElement("button");
     deleteBtn.innerText = "Delete";
 
+    let editInput = document.createElement("input");
+    editInput.value = el.text;
+
+    // chckbox logic
+    checkBox.addEventListener("change", () => {
+      let checkBoxItem = todoStorage.map((ch) =>
+        el.id === ch.id ? { ...ch, isCompleted: checkBox.checked } : ch
+      );
+      todoStorage = checkBoxItem;
+      localStorage.setItem("todoData", JSON.stringify(todoStorage));
+      todoList();
+    });
+
+    //  checkBox.addEventListener("change", () => {
+    //   let clickedItem;
+
+    //   todoStorage = todoStorage.filter((item) => {
+    //     if (item.id === el.id) {
+    //       clickedItem = {
+    //         ...item,
+    //         isCompleted: checkBox.checked,
+    //       };
+    //       return false;
+    //     }
+    //     return true;
+    //   });
+
+    //   if (checkBox.checked) {
+    //     todoStorage.unshift(clickedItem); // ✅ TOP
+    //   } else {
+    //     todoStorage.push(clickedItem); // ✅ BOTTOM
+    //   }
+
+    //   localStorage.setItem("todoData", JSON.stringify(todoStorage));
+    //   todoList();
+    // });
+
     // Edit logic
     editBtn.addEventListener("click", () => {
       let editItem = todoStorage.map((item) =>
@@ -106,7 +161,6 @@ const todoList = () => {
       todoStorage = editItem;
       localStorage.setItem("todoData", JSON.stringify(todoStorage));
       todoList();
-      console.log("🚀 ~ editItem:", editItem);
     });
 
     // Delete logic
@@ -123,16 +177,6 @@ const todoList = () => {
     let confirmBtn = document.createElement("button");
     confirmBtn.innerText = "Confirm";
 
-    if (el.isEdited) {
-      editBtn.style.display = "none";
-      deleteBtn.style.display = "none";
-      cancelBtn.style.display = "inline-block";
-      confirmBtn.style.display = "inline-block";
-    } else {
-      cancelBtn.style.display = "none";
-      confirmBtn.style.display = "none";
-    }
-
     // cancel logic
     cancelBtn.addEventListener("click", () => {
       let cancelItem = todoStorage.map((cl) =>
@@ -143,9 +187,61 @@ const todoList = () => {
       todoList();
     });
 
+    // confirm logic
+    confirmBtn.addEventListener("click", () => {
+      let confirmItem = todoStorage.map((cf) =>
+        el.id === cf.id ? { ...cf, text: editInput.value, isEdited: false } : cf
+      );
+      todoStorage = confirmItem;
+      localStorage.setItem("todoData", JSON.stringify(todoStorage));
+      todoList();
+    });
+
+    if (el.isEdited) {
+      editBtn.style.display = "none";
+      deleteBtn.style.display = "none";
+      cancelBtn.style.display = "inline-block";
+      confirmBtn.style.display = "inline-block";
+      todoText.style.display = "none";
+      editInput.style.display = "inline-block";
+    } else {
+      cancelBtn.style.display = "none";
+      confirmBtn.style.display = "none";
+      todoText.style.display = "inline-block";
+      editInput.style.display = "none";
+    }
+
+    if (el.isCompleted) {
+      todoText.style.textDecoration = "line-through";
+      editBtn.style.textDecoration = "line-through";
+      deleteBtn.style.textDecoration = "line-through";
+      todoId.style.textDecoration = "line-through";
+      editBtn.disabled = true;
+      editBtn.style.cursor = "not-allowed";
+    } else {
+      todoText.style.textDecoration = "none";
+      editBtn.style.textDecoration = "none";
+      deleteBtn.style.textDecoration = "none";
+      todoId.style.textDecoration = "none";
+    }
+
+    // Appending data on the UI
+    checkBoxIdDiv.append(checkBox, todoId);
     buttonDiv.append(editBtn, deleteBtn, cancelBtn, confirmBtn);
 
-    mainDiv.append(todoId, todoText, buttonDiv);
+    mainDiv.append(checkBoxIdDiv, todoText, editInput, buttonDiv);
     listContainer.append(mainDiv);
   });
 };
+
+// const pinnedList = () => {
+//   let pinContainer = document.querySelector(".pin-container");
+//   pinContainer.innerHTML = "";
+
+//   pinTask.forEach((el) => {
+//     let p = document.createElement("p");
+//     let  = document.createElement("p");
+//     p.innerText = el.text;
+//     pinContainer.append(p);
+//   });
+// };
