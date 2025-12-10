@@ -24,7 +24,7 @@ body {
   outline: none;
 }
 .list-container {
-  width: 500px;
+  width: 600px;
   display: flex;
   flex-direction: column;
   gap: 15px;
@@ -33,6 +33,11 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.checkBox-id-div{
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 .button-div {
   display: flex;
