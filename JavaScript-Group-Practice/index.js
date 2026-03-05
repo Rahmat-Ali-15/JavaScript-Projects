@@ -612,3 +612,39 @@
 //     }
 // }
 // console.log(l)
+
+
+
+// # Counting letter from word
+
+// function countLetter(word){
+//     let result = {}
+
+//     for(let letter of word){
+//         result[letter] = (result[letter] || 0) + 1 
+//     }
+//     return result
+// }
+
+// let ans = countLetter("abcdabcdaaaa")
+// console.log("🚀 ~ ans:", ans);
+
+
+// function countLetter(word){ // Rahmat
+//     let result = {}
+
+//     for(let i = 0; i<word.length; i++){
+//         let chr = word[i];
+        
+//         if(result[chr]){
+//             result[chr]++
+//         }
+//         else{
+//             result[chr] = 1
+//         }
+//     }
+//     return result
+// }
+
+// let ans = countLetter("Rahmat")
+// console.log("🚀 ~ ans:", ans);
