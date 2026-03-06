@@ -1,0 +1,2706 @@
+{
+  "albums": [
+    {
+      "id": "1",
+      "name": "Future Nostalgia",
+      "artist": "Dua Lipa",
+      "genre": "Dance-Pop",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f5/Dua_Lipa_-_Future_Nostalgia_%28Official_Album_Cover%29.png",
+      "songs": [
+        {
+          "name": "Don't Start Now",
+          "img": "https://i.ytimg.com/vi/oygrmJFKYZY/hqdefault.jpg"
+        },
+        {
+          "name": "Levitating",
+          "img": "https://i.ytimg.com/vi/TUVcZfQe-Kw/hqdefault.jpg"
+        },
+        {
+          "name": "Physical",
+          "img": "https://i.ytimg.com/vi/9HDEHj2yzew/hqdefault.jpg"
+        },
+        {
+          "name": "Break My Heart",
+          "img": "https://i.ytimg.com/vi/Nj2U6rhnucI/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "After Hours",
+      "artist": "The Weeknd",
+      "genre": "Synthwave",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Weeknd_-_After_Hours.png",
+      "songs": [
+        {
+          "name": "Blinding Lights",
+          "img": "https://i.ytimg.com/vi/4NRXx6U8ABQ/hqdefault.jpg"
+        },
+        {
+          "name": "Save Your Tears",
+          "img": "https://i.ytimg.com/vi/XXYlFuWEuKI/hqdefault.jpg"
+        },
+        {
+          "name": "In Your Eyes",
+          "img": "https://i.ytimg.com/vi/E3QiD99jPAg/hqdefault.jpg"
+        },
+        {
+          "name": "After Hours",
+          "img": "https://i.ytimg.com/vi/ygTZZpVkmKg/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Divide",
+      "artist": "Ed Sheeran",
+      "genre": "Acoustic Pop",
+      "year": 2017,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/45/Divide_cover.png",
+      "songs": [
+        {
+          "name": "Shape of You",
+          "img": "https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg"
+        },
+        {
+          "name": "Perfect",
+          "img": "https://i.ytimg.com/vi/2Vv-BfVoq4g/hqdefault.jpg"
+        },
+        {
+          "name": "Galway Girl",
+          "img": "https://i.ytimg.com/vi/87gWaABqGYs/hqdefault.jpg"
+        },
+        {
+          "name": "Castle on the Hill",
+          "img": "https://i.ytimg.com/vi/K0ibBPhiaG0/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "25",
+      "artist": "Adele",
+      "genre": "Soul Pop",
+      "year": 2015,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Adele_-_25_%28Official_Album_Cover%29.png",
+      "songs": [
+        {
+          "name": "Hello",
+          "img": "https://i.ytimg.com/vi/YQHsXMglC9A/hqdefault.jpg"
+        },
+        {
+          "name": "Send My Love",
+          "img": "https://i.ytimg.com/vi/fk4BbF7B29w/hqdefault.jpg"
+        },
+        {
+          "name": "When We Were Young",
+          "img": "https://i.ytimg.com/vi/DDWKuo3gXMQ/hqdefault.jpg"
+        },
+        {
+          "name": "Remedy",
+          "img": "https://i.ytimg.com/vi/LRP8d7hhpoQ/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Thriller",
+      "artist": "Michael Jackson",
+      "genre": "Pop Rock",
+      "year": 1982,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+      "songs": [
+        {
+          "name": "Thriller",
+          "img": "https://i.ytimg.com/vi/sOnqjkJTMaA/hqdefault.jpg"
+        },
+        {
+          "name": "Beat It",
+          "img": "https://i.ytimg.com/vi/oRdxUFDoQe0/hqdefault.jpg"
+        },
+        {
+          "name": "Billie Jean",
+          "img": "https://i.ytimg.com/vi/Zi_XLOBDo_Y/hqdefault.jpg"
+        },
+        {
+          "name": "Human Nature",
+          "img": "https://i.ytimg.com/vi/ElN_4vUvTPs/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "1989",
+      "artist": "Taylor Swift",
+      "genre": "Electropop",
+      "year": 2014,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png",
+      "songs": [
+        {
+          "name": "Blank Space",
+          "img": "https://i.ytimg.com/vi/e-ORhEE9VVg/hqdefault.jpg"
+        },
+        {
+          "name": "Style",
+          "img": "https://i.ytimg.com/vi/-CmadmM5cOk/hqdefault.jpg"
+        },
+        {
+          "name": "Shake It Off",
+          "img": "https://i.ytimg.com/vi/nfWlot6h_JM/hqdefault.jpg"
+        },
+        {
+          "name": "Wildest Dreams",
+          "img": "https://i.ytimg.com/vi/IdneKLhsWOQ/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Random Access Memories",
+      "artist": "Daft Punk",
+      "genre": "Disco",
+      "year": 2013,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a7/Random_Access_Memories.jpg",
+      "songs": [
+        {
+          "name": "Get Lucky",
+          "img": "https://i.ytimg.com/vi/5NV6Rdv1a3I/hqdefault.jpg"
+        },
+        {
+          "name": "Instant Crush",
+          "img": "https://i.ytimg.com/vi/a5uQMwRMHcs/hqdefault.jpg"
+        },
+        {
+          "name": "Lose Yourself to Dance",
+          "img": "https://i.ytimg.com/vi/NF-kLy44Hls/hqdefault.jpg"
+        },
+        {
+          "name": "Contact",
+          "img": "https://i.ytimg.com/vi/JI5noh4OyXc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Born This Way",
+      "artist": "Lady Gaga",
+      "genre": "Synth Pop",
+      "year": 2011,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/Born_This_Way_album.png",
+      "songs": [
+        {
+          "name": "Born This Way",
+          "img": "https://i.ytimg.com/vi/wV1FrqwZyKw/hqdefault.jpg"
+        },
+        {
+          "name": "Judas",
+          "img": "https://i.ytimg.com/vi/wagn8Wrmzuc/hqdefault.jpg"
+        },
+        {
+          "name": "Edge of Glory",
+          "img": "https://i.ytimg.com/vi/QeWBS0JBNzQ/hqdefault.jpg"
+        },
+        {
+          "name": "Marry the Night",
+          "img": "https://i.ytimg.com/vi/cggNqDAtJYU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Nevermind",
+      "artist": "Nirvana",
+      "genre": "Grunge",
+      "year": 1991,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+      "songs": [
+        {
+          "name": "Smells Like Teen Spirit",
+          "img": "https://i.ytimg.com/vi/hTWKbfoikeg/hqdefault.jpg"
+        },
+        {
+          "name": "Come As You Are",
+          "img": "https://i.ytimg.com/vi/vabnZ9-ex7o/hqdefault.jpg"
+        },
+        {
+          "name": "Lithium",
+          "img": "https://i.ytimg.com/vi/pkcJEvMcnEg/hqdefault.jpg"
+        },
+        {
+          "name": "In Bloom",
+          "img": "https://i.ytimg.com/vi/PbgKEjNBHqM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Back in Black",
+      "artist": "AC/DC",
+      "genre": "Hard Rock",
+      "year": 1980,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Back_in_Black_ACDC.png",
+      "songs": [
+        {
+          "name": "Back in Black",
+          "img": "https://i.ytimg.com/vi/pAgnJDJN4VA/hqdefault.jpg"
+        },
+        {
+          "name": "Hells Bells",
+          "img": "https://i.ytimg.com/vi/etAIpkdhU9Q/hqdefault.jpg"
+        },
+        {
+          "name": "Shoot to Thrill",
+          "img": "https://i.ytimg.com/vi/xRQnJyP77tY/hqdefault.jpg"
+        },
+        {
+          "name": "You Shook Me",
+          "img": "https://i.ytimg.com/vi/Lo2qQmj0_h4/hqdefault.jpg"
+        }
+      ]
+    },
+
+    {
+      "id": "11",
+      "name": "Rumours",
+      "artist": "Fleetwood Mac",
+      "genre": "Soft Rock",
+      "year": 1977,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+      "songs": [
+        {
+          "name": "Dreams",
+          "img": "https://i.ytimg.com/vi/5oWyMakvQew/hqdefault.jpg"
+        },
+        {
+          "name": "Go Your Own Way",
+          "img": "https://i.ytimg.com/vi/6ul-cZyuYq4/hqdefault.jpg"
+        },
+        {
+          "name": "The Chain",
+          "img": "https://i.ytimg.com/vi/xwTPvcPYaOo/hqdefault.jpg"
+        },
+        {
+          "name": "Don't Stop",
+          "img": "https://i.ytimg.com/vi/SJL4UT4wAxc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "genre": "Progressive Rock",
+      "year": 1973,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+      "songs": [
+        {
+          "name": "Time",
+          "img": "https://i.ytimg.com/vi/JwYX52BP2Sk/hqdefault.jpg"
+        },
+        {
+          "name": "Money",
+          "img": "https://i.ytimg.com/vi/-0kcet4aPpQ/hqdefault.jpg"
+        },
+        {
+          "name": "Us and Them",
+          "img": "https://i.ytimg.com/vi/HoLhKJuGhK0/hqdefault.jpg"
+        },
+        {
+          "name": "Brain Damage",
+          "img": "https://i.ytimg.com/vi/2Z39Yt7EJgY/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Hotel California",
+      "artist": "Eagles",
+      "genre": "Country Rock",
+      "year": 1976,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg",
+      "songs": [
+        {
+          "name": "Hotel California",
+          "img": "https://i.ytimg.com/vi/EqPtz5qN7HM/hqdefault.jpg"
+        },
+        {
+          "name": "New Kid in Town",
+          "img": "https://i.ytimg.com/vi/D1nR2e7q2lE/hqdefault.jpg"
+        },
+        {
+          "name": "Life in the Fast Lane",
+          "img": "https://i.ytimg.com/vi/4TcXblWojdM/hqdefault.jpg"
+        },
+        {
+          "name": "Victim of Love",
+          "img": "https://i.ytimg.com/vi/-0gqJ2f0M1c/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "21",
+      "artist": "Adele",
+      "genre": "Contemporary Soul",
+      "year": 2011,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "songs": [
+        {
+          "name": "Rolling in the Deep",
+          "img": "https://i.ytimg.com/vi/rYEDA3JcQqw/hqdefault.jpg"
+        },
+        {
+          "name": "Rumour Has It",
+          "img": "https://i.ytimg.com/vi/sF7P7C8kCqk/hqdefault.jpg"
+        },
+        {
+          "name": "Turning Tables",
+          "img": "https://i.ytimg.com/vi/vtY8p7tI8m0/hqdefault.jpg"
+        },
+        {
+          "name": "Set Fire to the Rain",
+          "img": "https://i.ytimg.com/vi/Ri7-vnrJD3k/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Fearless",
+      "artist": "Taylor Swift",
+      "genre": "Country Pop",
+      "year": 2008,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png",
+      "songs": [
+        {
+          "name": "Love Story",
+          "img": "https://i.ytimg.com/vi/8xg3vE8Ie_E/hqdefault.jpg"
+        },
+        {
+          "name": "You Belong With Me",
+          "img": "https://i.ytimg.com/vi/VuNIsY6JdUw/hqdefault.jpg"
+        },
+        {
+          "name": "Fifteen",
+          "img": "https://i.ytimg.com/vi/PpHcB0Yp7jA/hqdefault.jpg"
+        },
+        {
+          "name": "Fearless",
+          "img": "https://i.ytimg.com/vi/ptSjNWnzpjg/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Good Kid, M.A.A.D City",
+      "artist": "Kendrick Lamar",
+      "genre": "West Coast Hip Hop",
+      "year": 2012,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
+      "songs": [
+        {
+          "name": "Swimming Pools",
+          "img": "https://i.ytimg.com/vi/B5YNiCfWC3A/hqdefault.jpg"
+        },
+        {
+          "name": "Bitch Don't Kill My Vibe",
+          "img": "https://i.ytimg.com/vi/GF8aaTu2kg0/hqdefault.jpg"
+        },
+        {
+          "name": "Money Trees",
+          "img": "https://i.ytimg.com/vi/smqhSl0u_sI/hqdefault.jpg"
+        },
+        {
+          "name": "Backseat Freestyle",
+          "img": "https://i.ytimg.com/vi/EZW7et3tPuQ/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "The Marshall Mathers LP",
+      "artist": "Eminem",
+      "genre": "Rap",
+      "year": 2000,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/The_Marshall_Mathers_LP.jpg",
+      "songs": [
+        {
+          "name": "Stan",
+          "img": "https://i.ytimg.com/vi/gOMhN-hfMtY/hqdefault.jpg"
+        },
+        {
+          "name": "The Real Slim Shady",
+          "img": "https://i.ytimg.com/vi/eJO5HU_7_1w/hqdefault.jpg"
+        },
+        {
+          "name": "The Way I Am",
+          "img": "https://i.ytimg.com/vi/mQvteoFiMlg/hqdefault.jpg"
+        },
+        {
+          "name": "Kill You",
+          "img": "https://i.ytimg.com/vi/P8JEm4d6Wu4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "DAMN",
+      "artist": "Kendrick Lamar",
+      "genre": "Conscious Hip Hop",
+      "year": 2017,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
+      "songs": [
+        {
+          "name": "HUMBLE",
+          "img": "https://i.ytimg.com/vi/tvTRZJ-4EyI/hqdefault.jpg"
+        },
+        {
+          "name": "DNA",
+          "img": "https://i.ytimg.com/vi/NLZRYQMLDW4/hqdefault.jpg"
+        },
+        {
+          "name": "LOYALTY",
+          "img": "https://i.ytimg.com/vi/Dlh-dzB2U4Y/hqdefault.jpg"
+        },
+        {
+          "name": "ELEMENT",
+          "img": "https://i.ytimg.com/vi/glaG64Ao7sM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "AM",
+      "artist": "Arctic Monkeys",
+      "genre": "Indie Rock",
+      "year": 2013,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/04/Arctic_Monkeys_-_AM.png",
+      "songs": [
+        {
+          "name": "Do I Wanna Know",
+          "img": "https://i.ytimg.com/vi/bpOSxM0rNPM/hqdefault.jpg"
+        },
+        {
+          "name": "R U Mine",
+          "img": "https://i.ytimg.com/vi/VQH8ZTgna3Q/hqdefault.jpg"
+        },
+        {
+          "name": "Why'd You Only Call",
+          "img": "https://i.ytimg.com/vi/LIQz6zZi7R0/hqdefault.jpg"
+        },
+        {
+          "name": "Arabella",
+          "img": "https://i.ytimg.com/vi/Nj8r3qmOoZ8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Currents",
+      "artist": "Tame Impala",
+      "genre": "Psychedelic Pop",
+      "year": 2015,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/55/Tame_Impala_-_Currents.png",
+      "songs": [
+        {
+          "name": "Let It Happen",
+          "img": "https://i.ytimg.com/vi/pFptt7Cargc/hqdefault.jpg"
+        },
+        {
+          "name": "The Less I Know",
+          "img": "https://i.ytimg.com/vi/2SUwOgmvzK4/hqdefault.jpg"
+        },
+        {
+          "name": "Eventually",
+          "img": "https://i.ytimg.com/vi/GHe8kKO8uds/hqdefault.jpg"
+        },
+        {
+          "name": "Yes I'm Changing",
+          "img": "https://i.ytimg.com/vi/D_cMCvudZBs/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Starboy",
+      "artist": "The Weeknd",
+      "genre": "R&B",
+      "year": 2016,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Weeknd_-_Starboy.png",
+      "songs": [
+        {
+          "name": "Starboy",
+          "img": "https://i.ytimg.com/vi/34Na4j8AVgA/hqdefault.jpg"
+        },
+        {
+          "name": "Reminder",
+          "img": "https://i.ytimg.com/vi/JZjAg6fK-BQ/hqdefault.jpg"
+        },
+        {
+          "name": "Party Monster",
+          "img": "https://i.ytimg.com/vi/diW6jXhLE0E/hqdefault.jpg"
+        },
+        {
+          "name": "I Feel It Coming",
+          "img": "https://i.ytimg.com/vi/qFLhGq0060w/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Fine Line",
+      "artist": "Harry Styles",
+      "genre": "Pop Soul",
+      "year": 2019,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png",
+      "songs": [
+        {
+          "name": "Adore You",
+          "img": "https://i.ytimg.com/vi/VF-r5TtlT9w/hqdefault.jpg"
+        },
+        {
+          "name": "Watermelon Sugar",
+          "img": "https://i.ytimg.com/vi/E07s5ZYygMg/hqdefault.jpg"
+        },
+        {
+          "name": "Falling",
+          "img": "https://i.ytimg.com/vi/olGSAVOkkTI/hqdefault.jpg"
+        },
+        {
+          "name": "Golden",
+          "img": "https://i.ytimg.com/vi/P3cffdsEXXw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Justice",
+      "artist": "Justin Bieber",
+      "genre": "Pop R&B",
+      "year": 2021,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Justin_Bieber_-_Justice.png",
+      "songs": [
+        {
+          "name": "Peaches",
+          "img": "https://i.ytimg.com/vi/tQ0yjYUFKAE/hqdefault.jpg"
+        },
+        {
+          "name": "Hold On",
+          "img": "https://i.ytimg.com/vi/LWeiydKl0mU/hqdefault.jpg"
+        },
+        {
+          "name": "Anyone",
+          "img": "https://i.ytimg.com/vi/KVXCuL0xn4Y/hqdefault.jpg"
+        },
+        {
+          "name": "Ghost",
+          "img": "https://i.ytimg.com/vi/Fp8msa5uYsc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Astroworld",
+      "artist": "Travis Scott",
+      "genre": "Trap",
+      "year": 2018,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Travis_Scott_-_Astroworld.png",
+      "songs": [
+        {
+          "name": "Sicko Mode",
+          "img": "https://i.ytimg.com/vi/6ONRf7h3Mdk/hqdefault.jpg"
+        },
+        {
+          "name": "Stargazing",
+          "img": "https://i.ytimg.com/vi/2a8PgqWrc_4/hqdefault.jpg"
+        },
+        {
+          "name": "Butterfly Effect",
+          "img": "https://i.ytimg.com/vi/_EyZUTDAH0U/hqdefault.jpg"
+        },
+        {
+          "name": "Yosemite",
+          "img": "https://i.ytimg.com/vi/PJWHAiDARMQ/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Scorpion",
+      "artist": "Drake",
+      "genre": "Hip Hop",
+      "year": 2018,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/Scorpion_by_Drake.jpg",
+      "songs": [
+        {
+          "name": "God's Plan",
+          "img": "https://i.ytimg.com/vi/xpVfcZ0ZcFM/hqdefault.jpg"
+        },
+        {
+          "name": "In My Feelings",
+          "img": "https://i.ytimg.com/vi/DRS_PpOrUZ4/hqdefault.jpg"
+        },
+        {
+          "name": "Nonstop",
+          "img": "https://i.ytimg.com/vi/AF9I3A6HhI0/hqdefault.jpg"
+        },
+        {
+          "name": "Nice for What",
+          "img": "https://i.ytimg.com/vi/U9BwWKXjVaI/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Planet Her",
+      "artist": "Doja Cat",
+      "genre": "Pop Rap",
+      "year": 2021,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5c/Doja_Cat_-_Planet_Her.png",
+      "songs": [
+        {
+          "name": "Woman",
+          "img": "https://i.ytimg.com/vi/yxW5yuzVi8w/hqdefault.jpg"
+        },
+        {
+          "name": "Kiss Me More",
+          "img": "https://i.ytimg.com/vi/0EVVKs6DQLo/hqdefault.jpg"
+        },
+        {
+          "name": "Need to Know",
+          "img": "https://i.ytimg.com/vi/dI3xkL7qUAc/hqdefault.jpg"
+        },
+        {
+          "name": "Ain't Shit",
+          "img": "https://i.ytimg.com/vi/umf2QeM1M4c/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "genre": "Alternative Pop",
+      "year": 2021,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/Billie_Eilish_-_Happier_Than_Ever.png",
+      "songs": [
+        {
+          "name": "Happier Than Ever",
+          "img": "https://i.ytimg.com/vi/5GJWxDKyk3A/hqdefault.jpg"
+        },
+        {
+          "name": "Therefore I Am",
+          "img": "https://i.ytimg.com/vi/RUQl6YcMalg/hqdefault.jpg"
+        },
+        {
+          "name": "NDA",
+          "img": "https://i.ytimg.com/vi/OORBa32WFcM/hqdefault.jpg"
+        },
+        {
+          "name": "Your Power",
+          "img": "https://i.ytimg.com/vi/fzeWc3zh01g/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Revival",
+      "artist": "Selena Gomez",
+      "genre": "Electro R&B",
+      "year": 2015,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/Selena_Gomez_-_Revival.png",
+      "songs": [
+        {
+          "name": "Good for You",
+          "img": "https://i.ytimg.com/vi/1TsVjvEkc4s/hqdefault.jpg"
+        },
+        {
+          "name": "Hands to Myself",
+          "img": "https://i.ytimg.com/vi/F4neLJQC1_E/hqdefault.jpg"
+        },
+        {
+          "name": "Same Old Love",
+          "img": "https://i.ytimg.com/vi/1mY5FNRh0h4/hqdefault.jpg"
+        },
+        {
+          "name": "Kill Em with Kindness",
+          "img": "https://i.ytimg.com/vi/HHP5MKgK0o8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Night Visions",
+      "artist": "Imagine Dragons",
+      "genre": "Alternative Rock",
+      "year": 2012,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2c/Night_Visions_Album_Cover.jpeg",
+      "songs": [
+        {
+          "name": "Radioactive",
+          "img": "https://i.ytimg.com/vi/ktvTqknDobU/hqdefault.jpg"
+        },
+        {
+          "name": "Demons",
+          "img": "https://i.ytimg.com/vi/mWRsgZuwf_8/hqdefault.jpg"
+        },
+        {
+          "name": "On Top of the World",
+          "img": "https://i.ytimg.com/vi/w5tWYmIOWGk/hqdefault.jpg"
+        },
+        {
+          "name": "It's Time",
+          "img": "https://i.ytimg.com/vi/sENM2wA_FTg/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Origins",
+      "artist": "Imagine Dragons",
+      "genre": "Arena Rock",
+      "year": 2018,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b5/ImagineDragonsOrigins.jpg",
+      "songs": [
+        {
+          "name": "Natural",
+          "img": "https://i.ytimg.com/vi/0I647GU3Jsc/hqdefault.jpg"
+        },
+        {
+          "name": "Bad Liar",
+          "img": "https://i.ytimg.com/vi/I-QfPUz1es8/hqdefault.jpg"
+        },
+        {
+          "name": "Zero",
+          "img": "https://i.ytimg.com/vi/j60ClcNYWu4/hqdefault.jpg"
+        },
+        {
+          "name": "Machine",
+          "img": "https://i.ytimg.com/vi/8sX9IEHWRJ8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Hybrid Theory",
+      "artist": "Linkin Park",
+      "genre": "Nu Metal",
+      "year": 2000,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Linkin_Park_Hybrid_Theory_Album_Cover.jpg",
+      "songs": [
+        {
+          "name": "In the End",
+          "img": "https://i.ytimg.com/vi/eVTXPUF4Oz4/hqdefault.jpg"
+        },
+        {
+          "name": "Crawling",
+          "img": "https://i.ytimg.com/vi/Gd9OhYroLN0/hqdefault.jpg"
+        },
+        {
+          "name": "Papercut",
+          "img": "https://i.ytimg.com/vi/vjVkXlxsO8Q/hqdefault.jpg"
+        },
+        {
+          "name": "One Step Closer",
+          "img": "https://i.ytimg.com/vi/4qlCC1GOwFw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Minutes to Midnight",
+      "artist": "Linkin Park",
+      "genre": "Alternative Metal",
+      "year": 2007,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/Minutes_to_Midnight_cover.jpg",
+      "songs": [
+        {
+          "name": "What I've Done",
+          "img": "https://i.ytimg.com/vi/8sgycukafqQ/hqdefault.jpg"
+        },
+        {
+          "name": "Bleed It Out",
+          "img": "https://i.ytimg.com/vi/OnuuYcqhzCE/hqdefault.jpg"
+        },
+        {
+          "name": "Shadow of the Day",
+          "img": "https://i.ytimg.com/vi/n1PCW0C1aiM/hqdefault.jpg"
+        },
+        {
+          "name": "Leave Out All the Rest",
+          "img": "https://i.ytimg.com/vi/yZIummTz9mM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "X&Y",
+      "artist": "Coldplay",
+      "genre": "Post-Britpop",
+      "year": 2005,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/85/Coldplay_-_X%26Y.png",
+      "songs": [
+        {
+          "name": "Fix You",
+          "img": "https://i.ytimg.com/vi/k4V3Mo61fJM/hqdefault.jpg"
+        },
+        {
+          "name": "Speed of Sound",
+          "img": "https://i.ytimg.com/vi/0k_1kvDh2UA/hqdefault.jpg"
+        },
+        {
+          "name": "Talk",
+          "img": "https://i.ytimg.com/vi/EH9meoWmAOM/hqdefault.jpg"
+        },
+        {
+          "name": "White Shadows",
+          "img": "https://i.ytimg.com/vi/Z0xfWCDLoCU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Parachutes",
+      "artist": "Coldplay",
+      "genre": "Dream Pop",
+      "year": 2000,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/27/Coldplay_-_Parachutes.png",
+      "songs": [
+        {
+          "name": "Yellow",
+          "img": "https://i.ytimg.com/vi/yKNxeF4KMsY/hqdefault.jpg"
+        },
+        {
+          "name": "Shiver",
+          "img": "https://i.ytimg.com/vi/u8XFFTWwSvY/hqdefault.jpg"
+        },
+        {
+          "name": "Trouble",
+          "img": "https://i.ytimg.com/vi/kcASPx3-HuI/hqdefault.jpg"
+        },
+        {
+          "name": "Don't Panic",
+          "img": "https://i.ytimg.com/vi/yWeuUwpEQfs/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "name": "A Rush of Blood to the Head",
+      "artist": "Coldplay",
+      "genre": "Art Rock",
+      "year": 2002,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6e/Coldplay_-_A_Rush_of_Blood_to_the_Head.png",
+      "songs": [
+        {
+          "name": "Clocks",
+          "img": "https://i.ytimg.com/vi/d020hcWA_Wg/hqdefault.jpg"
+        },
+        {
+          "name": "The Scientist",
+          "img": "https://i.ytimg.com/vi/RB-RcX5DS5A/hqdefault.jpg"
+        },
+        {
+          "name": "In My Place",
+          "img": "https://i.ytimg.com/vi/gnIZ7RMuLpU/hqdefault.jpg"
+        },
+        {
+          "name": "Green Eyes",
+          "img": "https://i.ytimg.com/vi/waKvorfmuB8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "El Camino",
+      "artist": "The Black Keys",
+      "genre": "Garage Rock",
+      "year": 2011,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5e/The_Black_Keys_-_El_Camino.png",
+      "songs": [
+        {
+          "name": "Lonely Boy",
+          "img": "https://i.ytimg.com/vi/a_426RiwST8/hqdefault.jpg"
+        },
+        {
+          "name": "Gold on the Ceiling",
+          "img": "https://i.ytimg.com/vi/6yCIDkFI7ew/hqdefault.jpg"
+        },
+        {
+          "name": "Little Black Submarines",
+          "img": "https://i.ytimg.com/vi/6k8es2BNloE/hqdefault.jpg"
+        },
+        {
+          "name": "Run Right Back",
+          "img": "https://i.ytimg.com/vi/mXQk-1k0h0M/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Brothers",
+      "artist": "The Black Keys",
+      "genre": "Blues Rock",
+      "year": 2010,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5d/Brothers_album_cover.jpg",
+      "songs": [
+        {
+          "name": "Tighten Up",
+          "img": "https://i.ytimg.com/vi/mpaPBCBjSVc/hqdefault.jpg"
+        },
+        {
+          "name": "Howlin' for You",
+          "img": "https://i.ytimg.com/vi/TLSpj7q6_mM/hqdefault.jpg"
+        },
+        {
+          "name": "Everlasting Light",
+          "img": "https://i.ytimg.com/vi/jhZpF1mF7Is/hqdefault.jpg"
+        },
+        {
+          "name": "Next Girl",
+          "img": "https://i.ytimg.com/vi/tYzMYcUty6s/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Torches",
+      "artist": "Foster the People",
+      "genre": "Indie Pop",
+      "year": 2011,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Foster_the_People_-_Torches.jpg",
+      "songs": [
+        {
+          "name": "Pumped Up Kicks",
+          "img": "https://i.ytimg.com/vi/SDTZ7iX4vTQ/hqdefault.jpg"
+        },
+        {
+          "name": "Helena Beat",
+          "img": "https://i.ytimg.com/vi/ABzh6hTYpb8/hqdefault.jpg"
+        },
+        {
+          "name": "Call It What You Want",
+          "img": "https://i.ytimg.com/vi/pYbQeF9zQ8U/hqdefault.jpg"
+        },
+        {
+          "name": "Houdini",
+          "img": "https://i.ytimg.com/vi/_GMQLjzVGfw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Plastic Beach",
+      "artist": "Gorillaz",
+      "genre": "Art Pop",
+      "year": 2010,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a5/Gorillaz_-_Plastic_Beach.jpg",
+      "songs": [
+        {
+          "name": "Stylo",
+          "img": "https://i.ytimg.com/vi/nhPaWIeULKk/hqdefault.jpg"
+        },
+        {
+          "name": "On Melancholy Hill",
+          "img": "https://i.ytimg.com/vi/04mfKJWDSzI/hqdefault.jpg"
+        },
+        {
+          "name": "Rhinestone Eyes",
+          "img": "https://i.ytimg.com/vi/7GdsftXc0yU/hqdefault.jpg"
+        },
+        {
+          "name": "Empire Ants",
+          "img": "https://i.ytimg.com/vi/C-yP9f0gadU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Demon Days",
+      "artist": "Gorillaz",
+      "genre": "Trip Hop",
+      "year": 2005,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/Demon_Days_Gorillaz.jpg",
+      "songs": [
+        {
+          "name": "Feel Good Inc",
+          "img": "https://i.ytimg.com/vi/HyHNuVaZJ-k/hqdefault.jpg"
+        },
+        {
+          "name": "DARE",
+          "img": "https://i.ytimg.com/vi/uAOR6ib95kQ/hqdefault.jpg"
+        },
+        {
+          "name": "Dirty Harry",
+          "img": "https://i.ytimg.com/vi/cLnkQAeMbIM/hqdefault.jpg"
+        },
+        {
+          "name": "Kids with Guns",
+          "img": "https://i.ytimg.com/vi/VCkFSe3voRc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "name": "American Idiot",
+      "artist": "Green Day",
+      "genre": "Punk Rock",
+      "year": 2004,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Green_Day_-_American_Idiot_album_cover.png",
+      "songs": [
+        {
+          "name": "American Idiot",
+          "img": "https://i.ytimg.com/vi/Ee_uujKuJMI/hqdefault.jpg"
+        },
+        {
+          "name": "Boulevard of Broken Dreams",
+          "img": "https://i.ytimg.com/vi/Soa3gO7tL-c/hqdefault.jpg"
+        },
+        {
+          "name": "Holiday",
+          "img": "https://i.ytimg.com/vi/A1OqtIqzScI/hqdefault.jpg"
+        },
+        {
+          "name": "Wake Me Up When September Ends",
+          "img": "https://i.ytimg.com/vi/NU9JoFKlaZ0/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Dookie",
+      "artist": "Green Day",
+      "genre": "Skate Punk",
+      "year": 1994,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/Green_Day_-_Dookie_cover.jpg",
+      "songs": [
+        {
+          "name": "Basket Case",
+          "img": "https://i.ytimg.com/vi/NUTGr5t3MoY/hqdefault.jpg"
+        },
+        {
+          "name": "When I Come Around",
+          "img": "https://i.ytimg.com/vi/i8dh9gDzmz8/hqdefault.jpg"
+        },
+        {
+          "name": "Longview",
+          "img": "https://i.ytimg.com/vi/42BBdzzgPNM/hqdefault.jpg"
+        },
+        {
+          "name": "She",
+          "img": "https://i.ytimg.com/vi/4Sc81uE5Z3Q/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Black Holes and Revelations",
+      "artist": "Muse",
+      "genre": "Space Rock",
+      "year": 2006,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Muse_-_Black_Holes_and_Revelations.png",
+      "songs": [
+        {
+          "name": "Supermassive Black Hole",
+          "img": "https://i.ytimg.com/vi/Xsp3_a-PMTw/hqdefault.jpg"
+        },
+        {
+          "name": "Starlight",
+          "img": "https://i.ytimg.com/vi/Pgum6OT_VH8/hqdefault.jpg"
+        },
+        {
+          "name": "Knights of Cydonia",
+          "img": "https://i.ytimg.com/vi/G_sBOsh-vyI/hqdefault.jpg"
+        },
+        {
+          "name": "Map of the Problematique",
+          "img": "https://i.ytimg.com/vi/Nw5AMCEiZms/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Absolution",
+      "artist": "Muse",
+      "genre": "Symphonic Rock",
+      "year": 2003,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Muse_-_Absolution.png",
+      "songs": [
+        {
+          "name": "Time Is Running Out",
+          "img": "https://i.ytimg.com/vi/O2IuJPh6h_A/hqdefault.jpg"
+        },
+        {
+          "name": "Hysteria",
+          "img": "https://i.ytimg.com/vi/3dm_5qWWDV8/hqdefault.jpg"
+        },
+        {
+          "name": "Butterflies and Hurricanes",
+          "img": "https://i.ytimg.com/vi/wIZ-iYNRHWE/hqdefault.jpg"
+        },
+        {
+          "name": "Sing for Absolution",
+          "img": "https://i.ytimg.com/vi/6Ck6Hcg2cjk/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Origin of Symmetry",
+      "artist": "Muse",
+      "genre": "Experimental Rock",
+      "year": 2001,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4f/Muse_-_Origin_of_Symmetry_cover_art.png",
+      "songs": [
+        {
+          "name": "Plug in Baby",
+          "img": "https://i.ytimg.com/vi/dbB-mICjkQM/hqdefault.jpg"
+        },
+        {
+          "name": "New Born",
+          "img": "https://i.ytimg.com/vi/qy2Wv5X2qZg/hqdefault.jpg"
+        },
+        {
+          "name": "Bliss",
+          "img": "https://i.ytimg.com/vi/eMqsWc8muj8/hqdefault.jpg"
+        },
+        {
+          "name": "Citizen Erased",
+          "img": "https://i.ytimg.com/vi/KScEW5a_KGY/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "name": "The Fame",
+      "artist": "Lady Gaga",
+      "genre": "Dance Pop",
+      "year": 2008,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d2/The_Fame_album.png",
+      "songs": [
+        {
+          "name": "Poker Face",
+          "img": "https://i.ytimg.com/vi/bESGLojNYSo/hqdefault.jpg"
+        },
+        {
+          "name": "Just Dance",
+          "img": "https://i.ytimg.com/vi/2Abk1jAONjw/hqdefault.jpg"
+        },
+        {
+          "name": "Paparazzi",
+          "img": "https://i.ytimg.com/vi/d2smz_1L2_0/hqdefault.jpg"
+        },
+        {
+          "name": "LoveGame",
+          "img": "https://i.ytimg.com/vi/1mB0tP1I-14/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "name": "The Fame Monster",
+      "artist": "Lady Gaga",
+      "genre": "Dark Pop",
+      "year": 2009,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e0/Lady_Gaga_-_The_Fame_Monster.png",
+      "songs": [
+        {
+          "name": "Bad Romance",
+          "img": "https://i.ytimg.com/vi/qrO4YZeyl0I/hqdefault.jpg"
+        },
+        {
+          "name": "Alejandro",
+          "img": "https://i.ytimg.com/vi/niqrrmev4mA/hqdefault.jpg"
+        },
+        {
+          "name": "Telephone",
+          "img": "https://i.ytimg.com/vi/EVBsypHzF3U/hqdefault.jpg"
+        },
+        {
+          "name": "Monster",
+          "img": "https://i.ytimg.com/vi/5L6xyaeiV58/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "name": "My Beautiful Dark Twisted Fantasy",
+      "artist": "Kanye West",
+      "genre": "Art Hip Hop",
+      "year": 2010,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/My_Beautiful_Dark_Twisted_Fantasy.jpg",
+      "songs": [
+        {
+          "name": "Power",
+          "img": "https://i.ytimg.com/vi/L53gjP-TtGE/hqdefault.jpg"
+        },
+        {
+          "name": "Runaway",
+          "img": "https://i.ytimg.com/vi/Bm5iA4Zupek/hqdefault.jpg"
+        },
+        {
+          "name": "Monster",
+          "img": "https://i.ytimg.com/vi/pS6HRKZQLFA/hqdefault.jpg"
+        },
+        {
+          "name": "All of the Lights",
+          "img": "https://i.ytimg.com/vi/HAfFfqiYLp0/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Graduation",
+      "artist": "Kanye West",
+      "genre": "Pop Rap",
+      "year": 2007,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/70/Graduation_album.jpg",
+      "songs": [
+        {
+          "name": "Stronger",
+          "img": "https://i.ytimg.com/vi/PsO6ZnUZI0g/hqdefault.jpg"
+        },
+        {
+          "name": "Good Life",
+          "img": "https://i.ytimg.com/vi/FEKEjpTzB0Q/hqdefault.jpg"
+        },
+        {
+          "name": "Flashing Lights",
+          "img": "https://i.ytimg.com/vi/ila-hAUXR5U/hqdefault.jpg"
+        },
+        {
+          "name": "Homecoming",
+          "img": "https://i.ytimg.com/vi/LQ488QrqGE4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "name": "The College Dropout",
+      "artist": "Kanye West",
+      "genre": "Chipmunk Soul",
+      "year": 2004,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kanyewest_collegedropout.jpg",
+      "songs": [
+        {
+          "name": "Through the Wire",
+          "img": "https://i.ytimg.com/vi/uvb-1wjAtk4/hqdefault.jpg"
+        },
+        {
+          "name": "Jesus Walks",
+          "img": "https://i.ytimg.com/vi/MYF7H_fpc-g/hqdefault.jpg"
+        },
+        {
+          "name": "All Falls Down",
+          "img": "https://i.ytimg.com/vi/8kyWDhB_QeI/hqdefault.jpg"
+        },
+        {
+          "name": "Slow Jamz",
+          "img": "https://i.ytimg.com/vi/kbNdx0yqbZE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "name": "Back to Black",
+      "artist": "Amy Winehouse",
+      "genre": "Neo Soul",
+      "year": 2006,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/Back_to_Black_album_cover.png",
+      "songs": [
+        {
+          "name": "Rehab",
+          "img": "https://i.ytimg.com/vi/KUmZp8pR1uc/hqdefault.jpg"
+        },
+        {
+          "name": "Back to Black",
+          "img": "https://i.ytimg.com/vi/TJAfLE39ZZ8/hqdefault.jpg"
+        },
+        {
+          "name": "Tears Dry on Their Own",
+          "img": "https://i.ytimg.com/vi/ojdbDYahiCQ/hqdefault.jpg"
+        },
+        {
+          "name": "You Know I'm No Good",
+          "img": "https://i.ytimg.com/vi/b-I2s5zRbHg/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "name": "Born to Die",
+      "artist": "Lana Del Rey",
+      "genre": "Baroque Pop",
+      "year": 2012,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/55/Lana_Del_Rey_-_Born_to_Die.png",
+      "songs": [
+        {
+          "name": "Video Games",
+          "img": "https://i.ytimg.com/vi/cE6wxDqdOV0/hqdefault.jpg"
+        },
+        {
+          "name": "Summertime Sadness",
+          "img": "https://i.ytimg.com/vi/TdrL3QxjyVw/hqdefault.jpg"
+        },
+        {
+          "name": "Blue Jeans",
+          "img": "https://i.ytimg.com/vi/JRWox-i6aAk/hqdefault.jpg"
+        },
+        {
+          "name": "Born to Die",
+          "img": "https://i.ytimg.com/vi/Bag1gUxuU0g/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Ultraviolence",
+      "artist": "Lana Del Rey",
+      "genre": "Dream Rock",
+      "year": 2014,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Lana_Del_Rey_-_Ultraviolence.png",
+      "songs": [
+        {
+          "name": "West Coast",
+          "img": "https://i.ytimg.com/vi/oKxuiw3iMBE/hqdefault.jpg"
+        },
+        {
+          "name": "Ultraviolence",
+          "img": "https://i.ytimg.com/vi/ZFWC4SiZBao/hqdefault.jpg"
+        },
+        {
+          "name": "Shades of Cool",
+          "img": "https://i.ytimg.com/vi/rJABBmAMXnY/hqdefault.jpg"
+        },
+        {
+          "name": "Brooklyn Baby",
+          "img": "https://i.ytimg.com/vi/T5xcnjAG8pE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "name": "Norman Fucking Rockwell",
+      "artist": "Lana Del Rey",
+      "genre": "Chamber Pop",
+      "year": 2019,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Lana_Del_Rey_-_Norman_Fucking_Rockwell.png",
+      "songs": [
+        {
+          "name": "Mariners Apartment Complex",
+          "img": "https://i.ytimg.com/vi/1uFv9Ts7Sdw/hqdefault.jpg"
+        },
+        {
+          "name": "Venice Bitch",
+          "img": "https://i.ytimg.com/vi/Qg3DxELVPj4/hqdefault.jpg"
+        },
+        {
+          "name": "Cinnamon Girl",
+          "img": "https://i.ytimg.com/vi/DCYmJDO2_IE/hqdefault.jpg"
+        },
+        {
+          "name": "Doin' Time",
+          "img": "https://i.ytimg.com/vi/qolmz4FlnZ0/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "name": "Hot Fuss",
+      "artist": "The Killers",
+      "genre": "New Wave",
+      "year": 2004,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/17/The_Killers_-_Hot_Fuss.png",
+      "songs": [
+        {
+          "name": "Mr Brightside",
+          "img": "https://i.ytimg.com/vi/gGdGFtwCNBE/hqdefault.jpg"
+        },
+        {
+          "name": "Somebody Told Me",
+          "img": "https://i.ytimg.com/vi/Y5fBdpreJiU/hqdefault.jpg"
+        },
+        {
+          "name": "All These Things",
+          "img": "https://i.ytimg.com/vi/sZTpLvsYYHw/hqdefault.jpg"
+        },
+        {
+          "name": "Smile Like You Mean It",
+          "img": "https://i.ytimg.com/vi/ZAErD8xzjCM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Sam's Town",
+      "artist": "The Killers",
+      "genre": "Heartland Rock",
+      "year": 2006,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Sam%27s_Town.jpg",
+      "songs": [
+        {
+          "name": "When You Were Young",
+          "img": "https://i.ytimg.com/vi/ff0oWESdmH0/hqdefault.jpg"
+        },
+        {
+          "name": "Read My Mind",
+          "img": "https://i.ytimg.com/vi/zc8hbSM1zVo/hqdefault.jpg"
+        },
+        {
+          "name": "For Reasons Unknown",
+          "img": "https://i.ytimg.com/vi/Hc16Y9fiCvQ/hqdefault.jpg"
+        },
+        {
+          "name": "Bones",
+          "img": "https://i.ytimg.com/vi/FufL80hJsP8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "name": "Imploding the Mirage",
+      "artist": "The Killers",
+      "genre": "Synth Rock",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/48/The_Killers_-_Imploding_the_Mirage.png",
+      "songs": [
+        {
+          "name": "Caution",
+          "img": "https://i.ytimg.com/vi/uU6PLP0PX2g/hqdefault.jpg"
+        },
+        {
+          "name": "My Own Soul's Warning",
+          "img": "https://i.ytimg.com/vi/4go_DzY8wHc/hqdefault.jpg"
+        },
+        {
+          "name": "Dying Breed",
+          "img": "https://i.ytimg.com/vi/0BS5lRJfJgQ/hqdefault.jpg"
+        },
+        {
+          "name": "Blowback",
+          "img": "https://i.ytimg.com/vi/0X3zS0DHLVA/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "name": "Night at the Opera",
+      "artist": "Queen",
+      "genre": "Classic Rock",
+      "year": 1975,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png",
+      "songs": [
+        {
+          "name": "Bohemian Rhapsody",
+          "img": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/hqdefault.jpg"
+        },
+        {
+          "name": "Love of My Life",
+          "img": "https://i.ytimg.com/vi/kpTQskYpXBE/hqdefault.jpg"
+        },
+        {
+          "name": "You're My Best Friend",
+          "img": "https://i.ytimg.com/vi/HaZpZQG2z10/hqdefault.jpg"
+        },
+        {
+          "name": "Death on Two Legs",
+          "img": "https://i.ytimg.com/vi/FrU4y5fCzX8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "name": "News of the World",
+      "artist": "Queen",
+      "genre": "Arena Rock",
+      "year": 1977,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Queen_News_of_the_World.png",
+      "songs": [
+        {
+          "name": "We Will Rock You",
+          "img": "https://i.ytimg.com/vi/-tJYN-eG1zk/hqdefault.jpg"
+        },
+        {
+          "name": "We Are the Champions",
+          "img": "https://i.ytimg.com/vi/04854XqcfCY/hqdefault.jpg"
+        },
+        {
+          "name": "Spread Your Wings",
+          "img": "https://i.ytimg.com/vi/uyE3tGdPZl8/hqdefault.jpg"
+        },
+        {
+          "name": "It's Late",
+          "img": "https://i.ytimg.com/vi/JzHj3mKx0yE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "A Kind of Magic",
+      "artist": "Queen",
+      "genre": "Pop Rock",
+      "year": 1986,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/15/A_Kind_of_Magic_%28Queen_album%29.jpg",
+      "songs": [
+        {
+          "name": "A Kind of Magic",
+          "img": "https://i.ytimg.com/vi/0p_1QSUsbsM/hqdefault.jpg"
+        },
+        {
+          "name": "Friends Will Be Friends",
+          "img": "https://i.ytimg.com/vi/yo9wzF6qHnQ/hqdefault.jpg"
+        },
+        {
+          "name": "One Vision",
+          "img": "https://i.ytimg.com/vi/-OGd4gplxQM/hqdefault.jpg"
+        },
+        {
+          "name": "Who Wants to Live Forever",
+          "img": "https://i.ytimg.com/vi/_Jtpf8N5IDE/hqdefault.jpg"
+        }
+      ]
+    },
+
+    {
+      "id": "61",
+      "name": "Led Zeppelin IV",
+      "artist": "Led Zeppelin",
+      "genre": "Folk Rock",
+      "year": 1971,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+      "songs": [
+        {
+          "name": "Stairway to Heaven",
+          "img": "https://i.ytimg.com/vi/QkF3oxziUI4/hqdefault.jpg"
+        },
+        {
+          "name": "Black Dog",
+          "img": "https://i.ytimg.com/vi/yBuub4Xe1mw/hqdefault.jpg"
+        },
+        {
+          "name": "Rock and Roll",
+          "img": "https://i.ytimg.com/vi/lDK9QqIzhwk/hqdefault.jpg"
+        },
+        {
+          "name": "Going to California",
+          "img": "https://i.ytimg.com/vi/PDIz4talyQk/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "name": "Master of Puppets",
+      "artist": "Metallica",
+      "genre": "Thrash Metal",
+      "year": 1986,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg",
+      "songs": [
+        {
+          "name": "Master of Puppets",
+          "img": "https://i.ytimg.com/vi/E0ozmU9cJDg/hqdefault.jpg"
+        },
+        {
+          "name": "Battery",
+          "img": "https://i.ytimg.com/vi/md3B3I7Nmvw/hqdefault.jpg"
+        },
+        {
+          "name": "Welcome Home",
+          "img": "https://i.ytimg.com/vi/tAGnKpE4NCI/hqdefault.jpg"
+        },
+        {
+          "name": "Orion",
+          "img": "https://i.ytimg.com/vi/c8qrwON1-zE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "name": "Ride the Lightning",
+      "artist": "Metallica",
+      "genre": "Speed Metal",
+      "year": 1984,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Ride_the_Lightning_album_cover.jpg",
+      "songs": [
+        {
+          "name": "Fade to Black",
+          "img": "https://i.ytimg.com/vi/WEQnzs8wl6E/hqdefault.jpg"
+        },
+        {
+          "name": "Creeping Death",
+          "img": "https://i.ytimg.com/vi/X8OeBZQn3_w/hqdefault.jpg"
+        },
+        {
+          "name": "For Whom the Bell Tolls",
+          "img": "https://i.ytimg.com/vi/B_HSa1dEL9s/hqdefault.jpg"
+        },
+        {
+          "name": "Ride the Lightning",
+          "img": "https://i.ytimg.com/vi/kk6wLZN4X74/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "name": "Black Album",
+      "artist": "Metallica",
+      "genre": "Heavy Metal",
+      "year": 1991,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg",
+      "songs": [
+        {
+          "name": "Enter Sandman",
+          "img": "https://i.ytimg.com/vi/CD-E-LDc384/hqdefault.jpg"
+        },
+        {
+          "name": "Nothing Else Matters",
+          "img": "https://i.ytimg.com/vi/tAGnKpE4NCI/hqdefault.jpg"
+        },
+        {
+          "name": "Sad but True",
+          "img": "https://i.ytimg.com/vi/A8MO7fkZc5o/hqdefault.jpg"
+        },
+        {
+          "name": "The Unforgiven",
+          "img": "https://i.ytimg.com/vi/Ckom3gf57Yw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "name": "Appetite for Destruction",
+      "artist": "Guns N Roses",
+      "genre": "Glam Metal",
+      "year": 1987,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/Guns_N%27_Roses_-_Appetite_for_Destruction.png",
+      "songs": [
+        {
+          "name": "Sweet Child O Mine",
+          "img": "https://i.ytimg.com/vi/1w7OgIMMRc4/hqdefault.jpg"
+        },
+        {
+          "name": "Welcome to the Jungle",
+          "img": "https://i.ytimg.com/vi/o1tj2zJ2Wvg/hqdefault.jpg"
+        },
+        {
+          "name": "Paradise City",
+          "img": "https://i.ytimg.com/vi/Rbm6GXllBiw/hqdefault.jpg"
+        },
+        {
+          "name": "Nightrain",
+          "img": "https://i.ytimg.com/vi/I0zv6xYvJvY/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "name": "Use Your Illusion I",
+      "artist": "Guns N Roses",
+      "genre": "Hard Blues Rock",
+      "year": 1991,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Guns_N%27_Roses_-_Use_Your_Illusion_I.png",
+      "songs": [
+        {
+          "name": "November Rain",
+          "img": "https://i.ytimg.com/vi/8SbUC-UaAxE/hqdefault.jpg"
+        },
+        {
+          "name": "Don't Cry",
+          "img": "https://i.ytimg.com/vi/zRIbf6JqkNc/hqdefault.jpg"
+        },
+        {
+          "name": "Live and Let Die",
+          "img": "https://i.ytimg.com/vi/0d3yB6pKj2I/hqdefault.jpg"
+        },
+        {
+          "name": "Coma",
+          "img": "https://i.ytimg.com/vi/BI3dYf1a7oM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "name": "Use Your Illusion II",
+      "artist": "Guns N Roses",
+      "genre": "Epic Rock",
+      "year": 1991,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Guns_N%27_Roses_-_Use_Your_Illusion_II.png",
+      "songs": [
+        {
+          "name": "Civil War",
+          "img": "https://i.ytimg.com/vi/isCh4kCeNYU/hqdefault.jpg"
+        },
+        {
+          "name": "You Could Be Mine",
+          "img": "https://i.ytimg.com/vi/8P1Nf4VJkIs/hqdefault.jpg"
+        },
+        {
+          "name": "Estranged",
+          "img": "https://i.ytimg.com/vi/dpmAY059TTY/hqdefault.jpg"
+        },
+        {
+          "name": "Knockin on Heaven's Door",
+          "img": "https://i.ytimg.com/vi/f8OHybVhQwc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "name": "Continuum",
+      "artist": "John Mayer",
+      "genre": "Blues Pop",
+      "year": 2006,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2b/Continuum_album_cover.jpg",
+      "songs": [
+        {
+          "name": "Gravity",
+          "img": "https://i.ytimg.com/vi/7VBex8zbDRs/hqdefault.jpg"
+        },
+        {
+          "name": "Waiting on the World",
+          "img": "https://i.ytimg.com/vi/oBIxScJ5rlY/hqdefault.jpg"
+        },
+        {
+          "name": "Slow Dancing",
+          "img": "https://i.ytimg.com/vi/32GZ3suxRn4/hqdefault.jpg"
+        },
+        {
+          "name": "Belief",
+          "img": "https://i.ytimg.com/vi/7zVhR5F6z9s/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "name": "Room for Squares",
+      "artist": "John Mayer",
+      "genre": "Singer Songwriter",
+      "year": 2001,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2f/Room_for_Squares.jpg",
+      "songs": [
+        {
+          "name": "No Such Thing",
+          "img": "https://i.ytimg.com/vi/H1W2UddURXI/hqdefault.jpg"
+        },
+        {
+          "name": "Why Georgia",
+          "img": "https://i.ytimg.com/vi/OmliXq7qV6U/hqdefault.jpg"
+        },
+        {
+          "name": "Your Body Is a Wonderland",
+          "img": "https://i.ytimg.com/vi/N5EnGwXV_Pg/hqdefault.jpg"
+        },
+        {
+          "name": "Neon",
+          "img": "https://i.ytimg.com/vi/_DfQC5qHhbo/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "name": "Battle Studies",
+      "artist": "John Mayer",
+      "genre": "Soft Pop Rock",
+      "year": 2009,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/Battle_Studies_album_cover.jpg",
+      "songs": [
+        {
+          "name": "Heartbreak Warfare",
+          "img": "https://i.ytimg.com/vi/GeCClzNCfcA/hqdefault.jpg"
+        },
+        {
+          "name": "Half of My Heart",
+          "img": "https://i.ytimg.com/vi/aojTGWAqUIQ/hqdefault.jpg"
+        },
+        {
+          "name": "Who Says",
+          "img": "https://i.ytimg.com/vi/2UiX4dUUjWc/hqdefault.jpg"
+        },
+        {
+          "name": "Edge of Desire",
+          "img": "https://i.ytimg.com/vi/KZ75pdGdK-g/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "name": "Trench",
+      "artist": "Twenty One Pilots",
+      "genre": "Alternative Hip Hop",
+      "year": 2018,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/Trench_Twenty_One_Pilots.png",
+      "songs": [
+        {
+          "name": "Jumpsuit",
+          "img": "https://i.ytimg.com/vi/UOUBW8bkjQ4/hqdefault.jpg"
+        },
+        {
+          "name": "Chlorine",
+          "img": "https://i.ytimg.com/vi/eJnQBXmZ7Ek/hqdefault.jpg"
+        },
+        {
+          "name": "My Blood",
+          "img": "https://i.ytimg.com/vi/8mn-FFjIbo8/hqdefault.jpg"
+        },
+        {
+          "name": "Nico and the Niners",
+          "img": "https://i.ytimg.com/vi/hMAPyGoqQVw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "name": "Blurryface",
+      "artist": "Twenty One Pilots",
+      "genre": "Electro Alternative",
+      "year": 2015,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/70/Blurryface_album_cover.png",
+      "songs": [
+        {
+          "name": "Stressed Out",
+          "img": "https://i.ytimg.com/vi/pXRviuL6vMY/hqdefault.jpg"
+        },
+        {
+          "name": "Ride",
+          "img": "https://i.ytimg.com/vi/Pw-0pbY9JeU/hqdefault.jpg"
+        },
+        {
+          "name": "Tear in My Heart",
+          "img": "https://i.ytimg.com/vi/nky4me4NP70/hqdefault.jpg"
+        },
+        {
+          "name": "Heavydirtysoul",
+          "img": "https://i.ytimg.com/vi/r_9Kf0D5BTs/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "name": "Viva la Vida",
+      "artist": "Coldplay",
+      "genre": "Baroque Rock",
+      "year": 2008,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/26/Viva_la_Vida_or_Death_and_All_His_Friends.png",
+      "songs": [
+        {
+          "name": "Viva la Vida",
+          "img": "https://i.ytimg.com/vi/dvgZkm1xWPE/hqdefault.jpg"
+        },
+        {
+          "name": "Lost!",
+          "img": "https://i.ytimg.com/vi/yKNxeF4KMsY/hqdefault.jpg"
+        },
+        {
+          "name": "Lovers in Japan",
+          "img": "https://i.ytimg.com/vi/Tw5qRzP8Z3U/hqdefault.jpg"
+        },
+        {
+          "name": "Strawberry Swing",
+          "img": "https://i.ytimg.com/vi/h3pJZSTQqIg/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "name": "Ghost Stories",
+      "artist": "Coldplay",
+      "genre": "Ambient Pop",
+      "year": 2014,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/Coldplay_-_Ghost_Stories.png",
+      "songs": [
+        {
+          "name": "Magic",
+          "img": "https://i.ytimg.com/vi/Qtb11P1FWnc/hqdefault.jpg"
+        },
+        {
+          "name": "A Sky Full of Stars",
+          "img": "https://i.ytimg.com/vi/VPRjCeoBqrI/hqdefault.jpg"
+        },
+        {
+          "name": "Midnight",
+          "img": "https://i.ytimg.com/vi/BQeMxWjpr-Y/hqdefault.jpg"
+        },
+        {
+          "name": "Ink",
+          "img": "https://i.ytimg.com/vi/gKM15TaKLUI/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "name": "Mylo Xyloto",
+      "artist": "Coldplay",
+      "genre": "Electronic Rock",
+      "year": 2011,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/65/Mylo_Xyloto_album_cover.jpg",
+      "songs": [
+        {
+          "name": "Paradise",
+          "img": "https://i.ytimg.com/vi/1G4isv_Fylg/hqdefault.jpg"
+        },
+        {
+          "name": "Charlie Brown",
+          "img": "https://i.ytimg.com/vi/zTFBJgnNgU4/hqdefault.jpg"
+        },
+        {
+          "name": "Hurts Like Heaven",
+          "img": "https://i.ytimg.com/vi/C8KV0mzqTXY/hqdefault.jpg"
+        },
+        {
+          "name": "Every Teardrop",
+          "img": "https://i.ytimg.com/vi/fyMhvkC3A84/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "name": "The Joshua Tree",
+      "artist": "U2",
+      "genre": "Roots Rock",
+      "year": 1987,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/63/The_Joshua_Tree.png",
+      "songs": [
+        {
+          "name": "With or Without You",
+          "img": "https://i.ytimg.com/vi/XmSdTa9kaiQ/hqdefault.jpg"
+        },
+        {
+          "name": "Where the Streets",
+          "img": "https://i.ytimg.com/vi/GzZWSrr5wFI/hqdefault.jpg"
+        },
+        {
+          "name": "I Still Haven't Found",
+          "img": "https://i.ytimg.com/vi/e3-5YC_oHjE/hqdefault.jpg"
+        },
+        {
+          "name": "Bullet the Blue Sky",
+          "img": "https://i.ytimg.com/vi/5U6qv3gS0Yc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "name": "War",
+      "artist": "U2",
+      "genre": "Post Punk",
+      "year": 1983,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/U2_War_album_cover.jpg",
+      "songs": [
+        {
+          "name": "Sunday Bloody Sunday",
+          "img": "https://i.ytimg.com/vi/EM4vblG6BVQ/hqdefault.jpg"
+        },
+        {
+          "name": "New Year's Day",
+          "img": "https://i.ytimg.com/vi/jeYCyCaK_5k/hqdefault.jpg"
+        },
+        {
+          "name": "Two Hearts Beat",
+          "img": "https://i.ytimg.com/vi/6hXQv1S6pXo/hqdefault.jpg"
+        },
+        {
+          "name": "Surrender",
+          "img": "https://i.ytimg.com/vi/Lx7A0a5hFvM/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "name": "The Unforgettable Fire",
+      "artist": "U2",
+      "genre": "Atmospheric Rock",
+      "year": 1984,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0e/U2_-_The_Unforgettable_Fire.png",
+      "songs": [
+        {
+          "name": "Pride",
+          "img": "https://i.ytimg.com/vi/LHcP4MWABGY/hqdefault.jpg"
+        },
+        {
+          "name": "Bad",
+          "img": "https://i.ytimg.com/vi/HvBgRSSlVBA/hqdefault.jpg"
+        },
+        {
+          "name": "A Sort of Homecoming",
+          "img": "https://i.ytimg.com/vi/kL0uYxZ0yKQ/hqdefault.jpg"
+        },
+        {
+          "name": "Wire",
+          "img": "https://i.ytimg.com/vi/9hX3y5y7nH0/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "name": "OK Computer",
+      "artist": "Radiohead",
+      "genre": "Experimental Alternative",
+      "year": 1997,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
+      "songs": [
+        {
+          "name": "Paranoid Android",
+          "img": "https://i.ytimg.com/vi/fHiGbolFFGw/hqdefault.jpg"
+        },
+        {
+          "name": "Karma Police",
+          "img": "https://i.ytimg.com/vi/1uYWYWPc9HU/hqdefault.jpg"
+        },
+        {
+          "name": "No Surprises",
+          "img": "https://i.ytimg.com/vi/u5CVsCnxyXg/hqdefault.jpg"
+        },
+        {
+          "name": "Lucky",
+          "img": "https://i.ytimg.com/vi/YK4Fmrlqz3I/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "name": "Kid A",
+      "artist": "Radiohead",
+      "genre": "Electronic Art Rock",
+      "year": 2000,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b5/Radiohead.kida.albumart.jpg",
+      "songs": [
+        {
+          "name": "Everything in Its Right Place",
+          "img": "https://i.ytimg.com/vi/onRk0sjSgFU/hqdefault.jpg"
+        },
+        {
+          "name": "Idioteque",
+          "img": "https://i.ytimg.com/vi/svwJTnZOaco/hqdefault.jpg"
+        },
+        {
+          "name": "How to Disappear",
+          "img": "https://i.ytimg.com/vi/nZq_jeYsbTs/hqdefault.jpg"
+        },
+        {
+          "name": "Motion Picture",
+          "img": "https://i.ytimg.com/vi/EcSvMFm2ABE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "name": "In Rainbows",
+      "artist": "Radiohead",
+      "genre": "Art Alternative",
+      "year": 2007,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/In_Rainbows_Official_Cover.jpg",
+      "songs": [
+        {
+          "name": "Nude",
+          "img": "https://i.ytimg.com/vi/BbWBRnDK_AE/hqdefault.jpg"
+        },
+        {
+          "name": "Reckoner",
+          "img": "https://i.ytimg.com/vi/pYHEpDnvVPk/hqdefault.jpg"
+        },
+        {
+          "name": "House of Cards",
+          "img": "https://i.ytimg.com/vi/8nTFjVm9sTQ/hqdefault.jpg"
+        },
+        {
+          "name": "Jigsaw Falling",
+          "img": "https://i.ytimg.com/vi/GoLJJRIWCLU/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "name": "The Bends",
+      "artist": "Radiohead",
+      "genre": "Britpop",
+      "year": 1995,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/55/Radioheadthebends.png",
+      "songs": [
+        {
+          "name": "High and Dry",
+          "img": "https://i.ytimg.com/vi/7qFfFVSerQo/hqdefault.jpg"
+        },
+        {
+          "name": "Fake Plastic Trees",
+          "img": "https://i.ytimg.com/vi/n5h0qHwNrHk/hqdefault.jpg"
+        },
+        {
+          "name": "Just",
+          "img": "https://i.ytimg.com/vi/oIFLtNYI3Ls/hqdefault.jpg"
+        },
+        {
+          "name": "Street Spirit",
+          "img": "https://i.ytimg.com/vi/LCJblaUkkfc/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "name": "Lungs",
+      "artist": "Florence and the Machine",
+      "genre": "Indie Baroque",
+      "year": 2009,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Lungs_Florence_and_the_Machine.png",
+      "songs": [
+        {
+          "name": "Dog Days Are Over",
+          "img": "https://i.ytimg.com/vi/iWOyfLBYtuU/hqdefault.jpg"
+        },
+        {
+          "name": "Rabbit Heart",
+          "img": "https://i.ytimg.com/vi/G5-KJgVsoUM/hqdefault.jpg"
+        },
+        {
+          "name": "Cosmic Love",
+          "img": "https://i.ytimg.com/vi/2EIeUlvHAiM/hqdefault.jpg"
+        },
+        {
+          "name": "Drumming Song",
+          "img": "https://i.ytimg.com/vi/3B8YQyPqZbE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "name": "Ceremonials",
+      "artist": "Florence and the Machine",
+      "genre": "Art Indie",
+      "year": 2011,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Ceremonials_Florence_and_the_Machine.png",
+      "songs": [
+        {
+          "name": "Shake It Out",
+          "img": "https://i.ytimg.com/vi/WbN0nX61rIs/hqdefault.jpg"
+        },
+        {
+          "name": "No Light",
+          "img": "https://i.ytimg.com/vi/HGH-4jQZRcc/hqdefault.jpg"
+        },
+        {
+          "name": "Spectrum",
+          "img": "https://i.ytimg.com/vi/iC-_lVzdiFE/hqdefault.jpg"
+        },
+        {
+          "name": "Seven Devils",
+          "img": "https://i.ytimg.com/vi/SM8PU-mTSaI/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "name": "How Big How Blue How Beautiful",
+      "artist": "Florence and the Machine",
+      "genre": "Chamber Rock",
+      "year": 2015,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/Florence_and_the_Machine_-_How_Big_How_Blue_How_Beautiful.png",
+      "songs": [
+        {
+          "name": "Ship to Wreck",
+          "img": "https://i.ytimg.com/vi/B9v8jLBrvug/hqdefault.jpg"
+        },
+        {
+          "name": "What Kind of Man",
+          "img": "https://i.ytimg.com/vi/l1QvFhK5Cl4/hqdefault.jpg"
+        },
+        {
+          "name": "Queen of Peace",
+          "img": "https://i.ytimg.com/vi/ZHgPRJv1d3k/hqdefault.jpg"
+        },
+        {
+          "name": "Delilah",
+          "img": "https://i.ytimg.com/vi/YF6CqN8v3UE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "name": "AMERICA",
+      "artist": "Thirty Seconds to Mars",
+      "genre": "Electronic Alternative",
+      "year": 2018,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6f/Thirty_Seconds_to_Mars_-_America.png",
+      "songs": [
+        {
+          "name": "Walk on Water",
+          "img": "https://i.ytimg.com/vi/FA2w-PMKspo/hqdefault.jpg"
+        },
+        {
+          "name": "Dangerous Night",
+          "img": "https://i.ytimg.com/vi/5lW0NfTeWvA/hqdefault.jpg"
+        },
+        {
+          "name": "Rescue Me",
+          "img": "https://i.ytimg.com/vi/7cJqU7p1x7E/hqdefault.jpg"
+        },
+        {
+          "name": "Monolith",
+          "img": "https://i.ytimg.com/vi/YpQ0hHj3sO4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "name": "This Is War",
+      "artist": "Thirty Seconds to Mars",
+      "genre": "Space Alternative",
+      "year": 2009,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/23/This_Is_War_album_cover.png",
+      "songs": [
+        {
+          "name": "Kings and Queens",
+          "img": "https://i.ytimg.com/vi/hTMrlHHVx8A/hqdefault.jpg"
+        },
+        {
+          "name": "This Is War",
+          "img": "https://i.ytimg.com/vi/Zcps2fJKuAI/hqdefault.jpg"
+        },
+        {
+          "name": "Closer to the Edge",
+          "img": "https://i.ytimg.com/vi/mLqHDhF-O28/hqdefault.jpg"
+        },
+        {
+          "name": "Hurricane",
+          "img": "https://i.ytimg.com/vi/h2q3C8Yg8cY/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "name": "A Beautiful Lie",
+      "artist": "Thirty Seconds to Mars",
+      "genre": "Alternative Post Rock",
+      "year": 2005,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/A_Beautiful_Lie_album_cover.jpg",
+      "songs": [
+        {
+          "name": "The Kill",
+          "img": "https://i.ytimg.com/vi/8yvGCAvOAfM/hqdefault.jpg"
+        },
+        {
+          "name": "Attack",
+          "img": "https://i.ytimg.com/vi/8y9R7K2fP1s/hqdefault.jpg"
+        },
+        {
+          "name": "From Yesterday",
+          "img": "https://i.ytimg.com/vi/JG4t9Ff2JvE/hqdefault.jpg"
+        },
+        {
+          "name": "Was It a Dream",
+          "img": "https://i.ytimg.com/vi/8d8F9qzE5kE/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "name": "Elephant",
+      "artist": "The White Stripes",
+      "genre": "Garage Blues",
+      "year": 2003,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/The_White_Stripes_-_Elephant.png",
+      "songs": [
+        {
+          "name": "Seven Nation Army",
+          "img": "https://i.ytimg.com/vi/0J2QdDbelmY/hqdefault.jpg"
+        },
+        {
+          "name": "Ball and Biscuit",
+          "img": "https://i.ytimg.com/vi/urEeUMqRhA4/hqdefault.jpg"
+        },
+        {
+          "name": "Black Math",
+          "img": "https://i.ytimg.com/vi/6JqYvN2Wl8k/hqdefault.jpg"
+        },
+        {
+          "name": "I Just Don't Know",
+          "img": "https://i.ytimg.com/vi/fT1QpY5y0v0/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "name": "White Blood Cells",
+      "artist": "The White Stripes",
+      "genre": "Lo Fi Garage",
+      "year": 2001,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3d/White_Blood_Cells_album_cover.png",
+      "songs": [
+        {
+          "name": "Fell in Love with a Girl",
+          "img": "https://i.ytimg.com/vi/fTH71AAxXmM/hqdefault.jpg"
+        },
+        {
+          "name": "Dead Leaves",
+          "img": "https://i.ytimg.com/vi/7OyytKqYjkE/hqdefault.jpg"
+        },
+        {
+          "name": "We're Going",
+          "img": "https://i.ytimg.com/vi/3vWb2pQ7sJE/hqdefault.jpg"
+        },
+        {
+          "name": "Hotel Yorba",
+          "img": "https://i.ytimg.com/vi/DZPEUyiNcjA/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "name": "Is This It",
+      "artist": "The Strokes",
+      "genre": "Garage Indie",
+      "year": 2001,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/The_Strokes_-_Is_This_It_cover.png",
+      "songs": [
+        {
+          "name": "Last Nite",
+          "img": "https://i.ytimg.com/vi/TOypSnKFHrE/hqdefault.jpg"
+        },
+        {
+          "name": "Someday",
+          "img": "https://i.ytimg.com/vi/knU9gRUWCno/hqdefault.jpg"
+        },
+        {
+          "name": "Hard to Explain",
+          "img": "https://i.ytimg.com/vi/BXkm6h6uq0k/hqdefault.jpg"
+        },
+        {
+          "name": "Barely Legal",
+          "img": "https://i.ytimg.com/vi/0JY9qYF5g7A/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "name": "Room on Fire",
+      "artist": "The Strokes",
+      "genre": "Indie Revival",
+      "year": 2003,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/Room_on_Fire_album_cover.png",
+      "songs": [
+        {
+          "name": "12:51",
+          "img": "https://i.ytimg.com/vi/L2kGNdE0b5Q/hqdefault.jpg"
+        },
+        {
+          "name": "Reptilia",
+          "img": "https://i.ytimg.com/vi/b8-tXG8KrWs/hqdefault.jpg"
+        },
+        {
+          "name": "The End Has No End",
+          "img": "https://i.ytimg.com/vi/4u6sC2D0hZk/hqdefault.jpg"
+        },
+        {
+          "name": "Under Control",
+          "img": "https://i.ytimg.com/vi/2X2qFvY0S0o/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "name": "Angles",
+      "artist": "The Strokes",
+      "genre": "Experimental Indie",
+      "year": 2011,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/The_Strokes_-_Angles.png",
+      "songs": [
+        {
+          "name": "Under Cover of Darkness",
+          "img": "https://i.ytimg.com/vi/_l09H-3zzgA/hqdefault.jpg"
+        },
+        {
+          "name": "Taken for a Fool",
+          "img": "https://i.ytimg.com/vi/2s5a6bR2Fz4/hqdefault.jpg"
+        },
+        {
+          "name": "Machu Picchu",
+          "img": "https://i.ytimg.com/vi/Xs9n1sTgK7M/hqdefault.jpg"
+        },
+        {
+          "name": "Life Is Simple",
+          "img": "https://i.ytimg.com/vi/2p5b7q7Jv8U/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "name": "The New Abnormal",
+      "artist": "The Strokes",
+      "genre": "Art Indie Rock",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5c/The_Strokes_-_The_New_Abnormal.png",
+      "songs": [
+        {
+          "name": "Bad Decisions",
+          "img": "https://i.ytimg.com/vi/5fbZTnZDvPA/hqdefault.jpg"
+        },
+        {
+          "name": "At the Door",
+          "img": "https://i.ytimg.com/vi/9CAz_vvsK9M/hqdefault.jpg"
+        },
+        {
+          "name": "Selfless",
+          "img": "https://i.ytimg.com/vi/1-W6whvn8Bs/hqdefault.jpg"
+        },
+        {
+          "name": "Brooklyn Bridge",
+          "img": "https://i.ytimg.com/vi/2yXfJ3u0p7k/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "name": "Brand New Eyes",
+      "artist": "Paramore",
+      "genre": "Pop Punk Rock",
+      "year": 2009,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/Brand_New_Eyes_Paramore.png",
+      "songs": [
+        {
+          "name": "Ignorance",
+          "img": "https://i.ytimg.com/vi/OH9A6tn_P6g/hqdefault.jpg"
+        },
+        {
+          "name": "Brick by Boring Brick",
+          "img": "https://i.ytimg.com/vi/A63VwWz1ij0/hqdefault.jpg"
+        },
+        {
+          "name": "The Only Exception",
+          "img": "https://i.ytimg.com/vi/-J7J_IWUhls/hqdefault.jpg"
+        },
+        {
+          "name": "Careful",
+          "img": "https://i.ytimg.com/vi/3m8ElO9Y50Y/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "name": "Riot",
+      "artist": "Paramore",
+      "genre": "Alternative Punk",
+      "year": 2007,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/Paramore_-_Riot%21.png",
+      "songs": [
+        {
+          "name": "Misery Business",
+          "img": "https://i.ytimg.com/vi/aCyGvGEtOwc/hqdefault.jpg"
+        },
+        {
+          "name": "That's What You Get",
+          "img": "https://i.ytimg.com/vi/1kz6hNDlEEg/hqdefault.jpg"
+        },
+        {
+          "name": "Crushcrushcrush",
+          "img": "https://i.ytimg.com/vi/ei8hPkyJ0bU/hqdefault.jpg"
+        },
+        {
+          "name": "Hallelujah",
+          "img": "https://i.ytimg.com/vi/9u4H4J4Q0k8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "name": "Paramore",
+      "artist": "Paramore",
+      "genre": "Pop Alternative",
+      "year": 2013,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5c/Paramore_-_Paramore.png",
+      "songs": [
+        {
+          "name": "Still Into You",
+          "img": "https://i.ytimg.com/vi/OblL026SvD4/hqdefault.jpg"
+        },
+        {
+          "name": "Ain't It Fun",
+          "img": "https://i.ytimg.com/vi/EFEmTsfFL5A/hqdefault.jpg"
+        },
+        {
+          "name": "Now",
+          "img": "https://i.ytimg.com/vi/G133kjKy91U/hqdefault.jpg"
+        },
+        {
+          "name": "Daydreaming",
+          "img": "https://i.ytimg.com/vi/e1zXbqA6Y8g/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "name": "After Laughter",
+      "artist": "Paramore",
+      "genre": "New Wave Pop",
+      "year": 2017,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3f/Paramore_-_After_Laughter.png",
+      "songs": [
+        {
+          "name": "Hard Times",
+          "img": "https://i.ytimg.com/vi/AEB6ibtdPZc/hqdefault.jpg"
+        },
+        {
+          "name": "Rose Colored Boy",
+          "img": "https://i.ytimg.com/vi/cW5ueE2vUm0/hqdefault.jpg"
+        },
+        {
+          "name": "Told You So",
+          "img": "https://i.ytimg.com/vi/yw-RPm1uOM4/hqdefault.jpg"
+        },
+        {
+          "name": "Fake Happy",
+          "img": "https://i.ytimg.com/vi/yw-RPm1uOM4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "name": "Folklore",
+      "artist": "Taylor Swift",
+      "genre": "Indie Folk",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png",
+      "songs": [
+        {
+          "name": "Cardigan",
+          "img": "https://i.ytimg.com/vi/K-a8s8OLBSE/hqdefault.jpg"
+        },
+        {
+          "name": "Exile",
+          "img": "https://i.ytimg.com/vi/osdoLjUNFnA/hqdefault.jpg"
+        },
+        {
+          "name": "The 1",
+          "img": "https://i.ytimg.com/vi/K-a8s8OLBSE/hqdefault.jpg"
+        },
+        {
+          "name": "August",
+          "img": "https://i.ytimg.com/vi/nn_0zPAfyo8/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "name": "Evermore",
+      "artist": "Taylor Swift",
+      "genre": "Alternative Folk",
+      "year": 2020,
+      "no_of_songs": "4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png",
+      "songs": [
+        {
+          "name": "Willow",
+          "img": "https://i.ytimg.com/vi/RsEZmictANA/hqdefault.jpg"
+        },
+        {
+          "name": "Champagne Problems",
+          "img": "https://i.ytimg.com/vi/wMpqCRF7TKg/hqdefault.jpg"
+        },
+        {
+          "name": "Gold Rush",
+          "img": "https://i.ytimg.com/vi/Pz-f9mM3Ms8/hqdefault.jpg"
+        },
+        {
+          "name": "No Body No Crime",
+          "img": "https://i.ytimg.com/vi/IEPomqor2A8/hqdefault.jpg"
+        }
+      ]
+    }
+  ]
+}
